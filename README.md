@@ -1,10 +1,9 @@
-# perfilresponsivo
-# PerfilResponsivo - pinheiro_iwnl
+# PerfilResponsivo
 
 ## Autor
-Guilherme Pinheiro Serafim
-pinheiroiwnl@alu.ufc.br
-https://www.linkedin.com/in/guilherme-pinheiro-527a0927a/
+[Guilherme Pinheiro Serafim]
+[pinheiroiwnl@alu.ufc.br]
+[https://www.linkedin.com/in/guilherme-pinheiro-527a0927a/]
 
 ## Descrição
 Este é o repositório do meu portfolio responsivo, criado como parte do trabalho da disciplina de Desenvolvimento De Aplicativos Móveis. O objetivo deste projeto é demonstrar minhas habilidades em design responsivo e desenvolvimento web.
