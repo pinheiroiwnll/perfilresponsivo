@@ -123,9 +123,9 @@ button:hover{
     margin-top: 15px;
 }
 
-@media screen and (max-width:600px){
-    .cabeçalho-link {
-        display: none;
+@media screen and (max-width:414px){
+    .container-text h1{
+        font-size: 40px;
     }
     
 }
