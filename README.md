@@ -1,23 +1,75 @@
-# PerfilResponsivo
+# 🌐 Portfólio Responsivo
 
-## Autor
-- [Guilherme Pinheiro Serafim]
-- [pinheiroiwnl@alu.ufc.br]
-- [https://www.linkedin.com/in/guilherme-pinheiro-527a0927a/]
+> Portfólio pessoal responsivo desenvolvido com HTML e CSS puro — sem frameworks, sem dependências.
 
-## Descrição
-Este é o repositório do meu portfolio responsivo, criado como parte do trabalho da disciplina de Desenvolvimento De Aplicativos Móveis. O objetivo deste projeto é demonstrar minhas habilidades em design responsivo e desenvolvimento web.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Neste portfolio, você encontrará exemplos dos meus projetos, uma breve biografia e informações de contato. Fique à vontade para explorar e entrar em contato comigo para qualquer feedback ou oportunidades de colaboração.
+---
 
-## Tecnologias Utilizadas
-- HTML
-- CSS
+## 🎯 Objetivo
 
-## Como Visualizar
-1. Clone este repositório para o seu computador.
-2. Abra o arquivo `index.html` no seu navegador web preferido.
-3. Navegue pelo portfolio e veja os diferentes projetos e seções.
+Desenvolver um portfólio funcional e responsivo sem o uso de frameworks CSS, aplicando conceitos de:
 
-## Template Utilizado: 
-Link: https://www.youtube.com/watch?v=TGSwi2h8OXs&t=467s
+- Layout responsivo com **Flexbox** e **Media Queries**
+- Hierarquia visual e tipografia
+- Design adaptável para mobile, tablet e desktop
+- Semântica HTML5
+
+---
+
+## 📱 Responsividade
+
+O layout se adapta automaticamente a diferentes tamanhos de tela:
+
+| Dispositivo | Largura |
+|---|---|
+| Mobile | até 768px |
+| Tablet | 768px – 1024px |
+| Desktop | acima de 1024px |
+
+---
+
+## 🗂️ Estrutura
+
+```
+perfil-responsivo/
+│
+├── index.html      # Estrutura principal
+├── style.css       # Estilos e responsividade
+└── README.md
+```
+
+---
+
+## 🚀 Como Visualizar
+
+```bash
+# Clone o repositório
+git clone https://github.com/SEU_USERNAME/perfil-responsivo
+
+# Abra no navegador
+# Basta abrir o arquivo index.html
+```
+
+---
+
+## 🛠️ Tecnologias
+
+- **HTML5** — estrutura semântica
+- **CSS3** — estilização e responsividade
+- Sem frameworks ou dependências externas
+
+---
+
+## 📌 Contexto
+
+Projeto desenvolvido na disciplina de **Desenvolvimento de Aplicativos Móveis** — UFC Campus Itapajé.
+
+---
+
+## 👨‍💻 Autor
+
+**Guilherme Pinheiro Serafim**
+Analista de Dados | GFT Promotora
+[LinkedIn](https://linkedin.com/in/guilherme-pinheiro-527a0927a) · [classespvp@gmail.com](mailto:classespvp@gmail.com)
